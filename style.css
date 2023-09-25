@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* h2 {
+  background-color: bisque;
+} */
+
+#titulo {
+  color: blue;
+  margin: 10px;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.parrafos {
+  color: red;
+}
+
+p {
+  color: blue;
+}
+
+/* h1,h2,h3 {
+  background-color: bisque;
+} */
+.fondos-cabecera {
+    color: blue;
+    /* background-color: bisque; */
+  }
+
+div :nth-child(2) {
+    font-size: 50px;
+    background-color: rgb(255, 170, 170);
+}
+div:hover{
+    background-color: blueviolet;
+}
